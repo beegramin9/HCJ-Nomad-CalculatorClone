@@ -1,3 +1,6 @@
+![Calculator](https://user-images.githubusercontent.com/58083434/130403502-8078a35a-2760-42a9-8d03-80bf0aa56aeb.gif)
+
+
 # Latest Release (2021/06/28)
 ![Generic badge](https://img.shields.io/badge/build-passing-green.svg)
 
